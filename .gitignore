@@ -45,4 +45,4 @@ out/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
-artifacts/app-mbank.jar
+/artifacts/app-mbank.jar
